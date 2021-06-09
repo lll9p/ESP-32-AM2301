@@ -56,3 +56,5 @@ build/
 *.swo
 sdkconfig.old
 sdkconfig
+data.csv
+sdkconfig.ci
